@@ -1,6 +1,6 @@
 import os
 
-programs = ["changeAgrName/changeAgrName"]
+programs = ["changeAgrName/changeAgrName", "typing-sound/typeSound"]
 
 for p in programs:
     print("starting " + p)
