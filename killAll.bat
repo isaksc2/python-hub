@@ -1,0 +1,2 @@
+python killAll.py
+pause
