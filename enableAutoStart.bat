@@ -1,6 +1,6 @@
 (
     echo cd "%cd%" 
-    echo startAll.bat 
-)> "C:\\Users\\isak\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\autoStartPythonHub.bat"
+    echo python startAll.py 
+)> "%HOMEDRIVE%\%HOMEPATH%\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\autoStartPythonHub.bat"
 
 pause
